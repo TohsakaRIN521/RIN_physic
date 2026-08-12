@@ -1,4 +1,0 @@
-interface:
-  display_name: "arXiv Paper Completion (EN)"
-  short_description: "Fill a finished paper's gaps using related arXiv papers."
-  default_prompt: "Use $paper-completion-arxiv-en to complete the missing sections (abstract, introduction, references) of my finished paper draft."
