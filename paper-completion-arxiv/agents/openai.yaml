@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "arXiv 论文补全"
+  short_description: "搜索已发表论文，为已完成主体的论文补全摘要、引言、结论与参考文献。"
+  default_prompt: "Use $paper-completion-arxiv to complete the missing sections (abstract, introduction, references) of my finished paper draft."
